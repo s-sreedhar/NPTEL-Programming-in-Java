@@ -1,2 +1,8 @@
 # NPTEL-Programming-in-Java
-NPTEL weekly assignment answers
+NPTEL weekly programming assignment answers
+
+#WEEK 1
+
+
+
+
